@@ -1,5 +1,5 @@
 # historiapojazdu_date_finder
-A python script to brute-force full registration date of a vehicle when having its VIN, registration plates and production(registration) year.
+A python script to brute-force full registration date of a vehicle when having its VIN, registration plates and production(registration) year using historiapojazdu.gov.pl website.
 
 Install requirements by using:
 >pip install -r requirements.txt
